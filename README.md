@@ -1,4 +1,4 @@
-- <h1>👋 Hi, I’m **Brian Martin Murimi** (@br14nm4rt1n)</h1>.
+- <h1>👋 Hi, I’m Brian Martin Murimi (@br14nm4rt1n)</h1>.
 - 👀 I’m interested in python, django and bootstrap.
 - 🌱 I’m currently learning django rest framework and react.js
 - 💞️ I’m looking to collaborate on an anonymous chat forum
